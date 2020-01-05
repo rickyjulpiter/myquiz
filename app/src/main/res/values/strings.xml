@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Quiz</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="exit">Exit</string>
+    <string name="beranda">Beranda</string>
+</resources>
