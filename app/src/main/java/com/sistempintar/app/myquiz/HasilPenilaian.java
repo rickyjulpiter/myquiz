@@ -13,7 +13,7 @@ import org.w3c.dom.Text;
 public class HasilPenilaian extends AppCompatActivity {
     TextView mtvHasilAkhir;
     Button mbtnMenu;
-
+    //rickyjulpiter -> github profile
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
